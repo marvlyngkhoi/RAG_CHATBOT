@@ -1,0 +1,7 @@
+streamlit
+groq
+pinecone-client
+sentence-transformers
+PyPDF2
+python-docx
+textract
